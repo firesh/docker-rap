@@ -1,0 +1,4 @@
+# Ignore .git folder
+*/.git
+*/.DS_Store
+*/.project
